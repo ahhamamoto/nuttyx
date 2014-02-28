@@ -1,7 +1,7 @@
 # nuttyx
 
-An application to control personal finance using Sinatra microframework an
-the ruby programming language.
+An application to control personal finance using Flask microframework and
+the Python programming language.
 
 ## Functions
 
@@ -11,4 +11,3 @@ the ruby programming language.
 * Control categories (bill, supermaket, travel, etc);
 * Statistics page (month expenses, average, caegory filter);
 * User (change username, password and others).
-
